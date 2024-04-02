@@ -1,0 +1,25 @@
+body{
+    background-color: #146870;
+}
+/* .main{
+    /* height: 100vh; */
+/* } */
+.section{
+    margin-top: 15rem !important;
+}
+.btn{
+    display: block;
+    width: 15rem !important;
+    margin-left: auto;
+    background-color: #146870 !important;
+    color: white !important;
+    
+}
+::placeholder{
+    opacity: 0.4 !important;
+}
+#userinput{
+    width: 15rem !important;
+    height: 2.5rem !important;
+
+}
